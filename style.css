@@ -1,0 +1,47 @@
+/* .hero{
+    margin-left: 0.8em;
+} */
+
+.rounded-circle{
+    box-shadow: 5px 5px 25px 5px rgb(13, 114, 128);             /* box-shadow: offset-x, offset-y blur radius, blur spread; */
+    box-sizing: 0.5em;
+    width: 50%;
+    height: 50%;
+}
+
+.fa-html5{
+    color: #f4470b;
+}
+
+.fa-react{
+    color: #61dbfb;
+}
+.CSS{
+    margin-right: 1em;
+    margin-left: 2.5em;
+}
+
+.HTML{
+    margin-right: 0em;
+    margin-left: 1.2em;
+}
+
+.fa-linkedin{
+    color: #0077b5;
+}
+
+.fa-instagram{
+    color: #8a3ab9;
+}
+
+.fa-twitter{
+    color: #1DA1F2;
+}
+
+#hero{
+    margin-left: 12%;
+}
+
+#logos{
+    margin-right: 4rem;
+}
